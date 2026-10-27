@@ -8,8 +8,9 @@ export default function Home() {
   
   const skills = [
     {"level":"Intermediate","icon":"https://cdn.svgporn.com/logos/figma.svg","name":"Figma"},
-    {"name":"Python","level":"Beginner","icon":"https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"},
-    {"name":"Google Colab","level":"Beginner","icon":"https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"}
+    {"name":"Python","level":"Expert","icon":"https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"},
+    {"name":"Google Colab","level":"Intermediate","icon":"https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"},
+    {"name":"Penpot","level":"Intermediate","icon":"https://www.svgrepo.com/show/432263/penpot.svg"}
   ];
   
   const projects = [
